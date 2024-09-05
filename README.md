@@ -26,4 +26,8 @@
 
 ## Note
 
-**pip freeze > requirements.txt**
+- ## pip 모듈 관리 명령어
+    
+    ```cmd
+    pip freeze > requirements.txt
+    ```
