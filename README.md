@@ -23,3 +23,7 @@
 - 교재 : [Machine_Learning_with_TensorFlow_Second.pdf](./LearningMaterials/Machine_Learning_with_TensorFlow_Second.pdf)
     > 책에 적힌 코드가 텐서플로우 1.0 기반의 코드라 2.0 코드로 변환해야 함.
 - 수업 수강 인원 29명
+
+## Note
+
+**pip freeze > requirements.txt**
