@@ -32,3 +32,9 @@
     pip freeze > requirements.txt
     pip install -r requirements.txt
     ```
+    ```cmd
+    pip install tensorflow
+    pip install 
+    pip install matplotlib
+    pip install scikit-learn
+    ```
