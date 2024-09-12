@@ -27,15 +27,14 @@
 ## Note
 
 - ## pip 모듈 관리 명령어
-    
+
+    > python version : 3.7.4  
     ```cmd
     pip freeze > requirements.txt
     pip install -r requirements.txt
     ```
     ```cmd
+    pip install ipykernel
     pip install tensorflow
-    pip install 
     pip install matplotlib
-    pip install scikit-learn
     ```
-    > python version : 3.7.9  
