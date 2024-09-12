@@ -38,3 +38,4 @@
     pip install matplotlib
     pip install scikit-learn
     ```
+    > python version : 3.7.9  
